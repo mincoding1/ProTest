@@ -1,0 +1,7 @@
+1 100
+5
+1 1 JOHN
+1 2 TOM
+2 JOHN 1
+2 JOHN 1
+2 TOM 2
